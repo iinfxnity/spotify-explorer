@@ -661,10 +661,6 @@ else:
     3. Upload your CSV file
     4. Start exploring!
     
-    **First time setup:**
-    ```bash
-    pip install streamlit pandas plotly scikit-learn numpy kagglehub
-    ```
     
     **Note:** You may need to authenticate with Kaggle on first use. Follow the instructions if prompted.
     """)
